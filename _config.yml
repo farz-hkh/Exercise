@@ -72,9 +72,9 @@ defaults:
 # Google Analytics
 google_analytics: UA-89852122-1
 
-plugins:
-  - jekyll-gist
-  - jemoji
+#plugins:
+#  - jekyll-gist
+#  - jemoji
 
 # CAN CHANGE
 # encoding: UTF-8
