@@ -1,3 +1,63 @@
-title: First Log
-author: farz-hkh
+title: Extra Fun Project
+description: >
+   There is a Place ---
+   Lenny Macca (1963) <br />
+   Where I can go...
+   When I feel low...
+   When I feel blue...<br />
+   And it's my mind...
+   And there's no time...
+   When I'm alone.
+author: Farz-hkh
 theme: jekyll-theme-cayman
+# github: [metadata]
+encoding: UTF-8
+timezone: Asia/Jakarta
+show_downloads: true
+share: true
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Google Analytics
+google_analytics: UA-89852122-1
+
+plugins:
+  - jekyll-gist
+  - jemoji
+
+# CAN CHANGE
+# encoding: UTF-8
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+# future: true
+# jailed: false
+# gfm_quirks: paragraph_end
+# CAN NOT CHANGE
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
