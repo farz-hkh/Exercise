@@ -1,3 +1,9 @@
+---
+layout: post
+author: hkh
+---
+
+
 2.Sekarang kita akan membahas mengenai proses jekyll.
 
 3.Kita tentu memerlukan ruby bersama devkit beserta jekyllnya.
