@@ -1,6 +1,6 @@
 ---
 layout: post
-author: hkh
+author: Farz-hkh
 ---
 
 Sebelum kita lanjut lebih dalam lagi.

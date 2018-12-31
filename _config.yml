@@ -56,7 +56,7 @@ repository: farz-hkh/Exercise.github.io
 #   - vendor/ruby/
 
 
-# github: [metadata]
+github: [metadata]
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
