@@ -33,3 +33,7 @@ Hasilnya dapat kita lihat seperti dibawah
 ![images](https://raw.githubusercontent.com/farz-hkh/Exercise/master/assets/images/hacker.png)
 
 Selamat, kita akhirnya telah berhasil menginstall jekyll-theme.
+
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
+
+[Home](https://farz-hkh.github.io/Exercise/)
