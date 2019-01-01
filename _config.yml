@@ -35,7 +35,6 @@ github_username:  farz-hkh
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
-repository: farz-hkh/Exercise.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -50,8 +49,9 @@ repository: farz-hkh/Exercise.github.io
 #   - vendor/ruby/
 
 github:
-  zip_url: https://github.com/farz-hkh.github.io/zipball/master
-  tar_url: https://github.com/farz-hkh.github.io/tarball/master
+  zip_url: https://github.com/farz-hkh/Exercise.github.io/zipball/master
+  tar_url: https://github.com/farz-hkh/Exercise.github.io/tarball/master
+  repository: https://github.com/farz-hkh/Exercise.github.io
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
