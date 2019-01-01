@@ -10,7 +10,7 @@ layout: default
 
 [Third Log](2018/12/29/log-ketiga.html)
 
-[Fourth Log](2018/12/30/log/keempat.html)
+[Fourth Log](2018/12/30/log-keempat.html)
 
 
 
