@@ -47,13 +47,14 @@ theme: jekyll-theme-hacker
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+github: [metadata]
 
 github:
   zip_url: https://github.com/farz-hkh/Exercise/zipball/master
   tar_url: https://github.com/farz-hkh/Exercise/tarball/master
   repository: https://github.com/farz-hkh/Exercise
 
-github: [metadata]
+
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
