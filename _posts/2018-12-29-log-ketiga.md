@@ -25,6 +25,6 @@ Sehingga hasilnya menjadi
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/local.png)
 
 
-[Back](./)
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
 
 [Home](https://farz-hkh.github.io/Exercise/)

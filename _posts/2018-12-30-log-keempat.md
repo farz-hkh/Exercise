@@ -10,6 +10,6 @@ Dan yang ada pada github.io
 
 ![images](https://raw.githubusercontent.com/farz-hkh/Exercise/master/assets/images/io.png)
 
-[Back](./)
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
 
 [Home](https://farz-hkh.github.io/Exercise/)

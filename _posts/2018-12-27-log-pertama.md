@@ -39,6 +39,6 @@ setelah itu kita bisa mempush dengan cara
 8.Akhirnya kita dapat melihat folder kita yang bernama "_posts" yang berada di repository "extra1xx".
 
 
-[Back](./)
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
 
 [Home](https://farz-hkh.github.io/Exercise/)
