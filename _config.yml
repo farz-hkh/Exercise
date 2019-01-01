@@ -49,8 +49,9 @@ repository: farz-hkh/Exercise.github.io
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
-github: [metadata]
+github:
+  zip_url: https://github.com/farz-hkh.github.io/zipball/master
+  tar_url: https://github.com/farz-hkh.github.io/tarball/master
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
