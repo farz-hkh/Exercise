@@ -1,9 +1,3 @@
----
-layout: post
-author: Farz-hkh
----
-
-
 Github adalah salah satu tempat untuk berkolabarasi menggabungkan beberapa kode dari sumber programmer yang berbeda-beda. Hal ini sangat dibutuhkan untuk para programmer yang ingin berkolaborasi dengan cara remote.
 Github kali ini membutuhkan beberapa program dependency lain yaitu Git, Jekyll dan ruby. Pastikan kita sudah menginstall itu semua.
 
