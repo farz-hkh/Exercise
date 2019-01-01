@@ -17,15 +17,12 @@ title: Extra182
 
 [POSTS](./Logs.md).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 > Make sure you always do backup, before step ahead.
 >
 > Any data loss, it's not author's responsible. Do this if you really wanna challenge yourself.
 
-### Small image
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 

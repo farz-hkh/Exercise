@@ -4,11 +4,11 @@ layout: default
 
 ## Welcome to my posts
 
-[First Log](https://raw.githubusercontent.com/farz-hkh/Exercise.github.io/master/_posts/2018-12-27-log-pertama.md)
+[First Log](https://github.com/farz-hkh/Exercise.github.io/blob/master/_posts/2018-12-27-log-pertama.md)
 
-[Second Log](2018-12-27-log-kedua.md)
+[Second Log](2018/12/28/log-kedua.html)
 
-[Third Log](2018-12-27-log-ketiga.md)
+[Third Log](2018/12/29/log-ketiga.html)
 
 [Fourth Log](2018-12-27-log-keempat.md)
 
