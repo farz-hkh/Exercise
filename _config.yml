@@ -28,7 +28,7 @@ description:  # this means to ignore newlines until "baseurl:"
 
   Farz-hkh
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://farz-hkh.github.io/Exercise.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://farz-hkh.github.io/Exercise" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FadhrizStelar
 github_username:  farz-hkh
 
@@ -52,6 +52,8 @@ github:
   zip_url: https://github.com/farz-hkh/Exercise/zipball/master
   tar_url: https://github.com/farz-hkh/Exercise/tarball/master
   repository: https://github.com/farz-hkh/Exercise
+
+github: [metadata]
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
@@ -74,10 +76,10 @@ defaults:
 # Google Analytics
 google_analytics: UA-89852122-1
 
-#plugins:
-#  - jekyll-feed
-#  - jekyll-gist
-#  - jemoji
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jemoji
 
 # CAN CHANGE
 # encoding: UTF-8

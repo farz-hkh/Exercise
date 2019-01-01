@@ -12,6 +12,8 @@ layout: default
 
 [Fourth Log](2018/12/30/log-keempat.html)
 
+[Fifth Log](2018/12/30/log-kelima.html)
+
 
 
 [Home](./)
