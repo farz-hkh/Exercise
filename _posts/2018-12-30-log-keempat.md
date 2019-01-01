@@ -9,3 +9,7 @@ Yang ada pada localhost
 Dan yang ada pada github.io
 
 ![images](https://raw.githubusercontent.com/farz-hkh/Exercise/master/assets/images/io.png)
+
+[Back](./)
+
+[Home](https://farz-hkh.github.io/Exercise/)

@@ -23,3 +23,8 @@
 Sehingga hasilnya menjadi
 
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/local.png)
+
+
+[Back](./)
+
+[Home](https://farz-hkh.github.io/Exercise/)
