@@ -7,7 +7,7 @@ yang berarti pada Gemfile.lock saya harus ada
   jekyll-theme-hacker (0.1.1)
   jekyll (~> 3.5)
 ```
-jika belum ada maka perlu ditambahkan ke Gemfil.lock,
+jika belum ada, maka perlu ditambahkan ke Gemfile.lock,
 beserta dependency nya yaitu
 
 ```
@@ -20,7 +20,7 @@ tzinfo-data
 wdm (~> 0.1.0)
 ```
 
-kemudian janga lupa untuk menambahkan
+kemudian jangan lupa untuk menambahkan
 
 ```
 gemspecs

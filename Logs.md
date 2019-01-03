@@ -14,6 +14,9 @@ layout: default
 
 [Fifth Log](2018/12/31/log-kelima.html)
 
+[Sixth Log](2019/01/01/log-keenam.html)
+
+[Seventh Log](2019/01/02/log-ketujuh.html)
 
 
 [Home](./)
