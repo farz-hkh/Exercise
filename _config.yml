@@ -49,10 +49,12 @@ theme: jekyll-theme-hacker
 #   - vendor/ruby/
 
 
-github:
-  zip_url: https://github.com/farz-hkh/Exercise/zipball/master
-  tar_url: https://github.com/farz-hkh/Exercise/tarball/master
-  repository: https://github.com/farz-hkh/Exercise
+github: [metadata]
+#  zip_url: https://github.com/farz-hkh/Exercise/zipball/master
+#  tar_url: https://github.com/farz-hkh/Exercise/tarball/master
+#  repository: https://github.com/farz-hkh/Exercise
+#  repository_nwo: github/Exercise
+#  repository_name: Exercise
 
 
 encoding: UTF-8
@@ -81,6 +83,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jemoji
+  - jekyll-github-metadata
 
 # CAN CHANGE
 # encoding: UTF-8
