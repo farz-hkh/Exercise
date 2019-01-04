@@ -48,11 +48,12 @@ theme: jekyll-theme-hacker
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
-#github: [metadata]
-#  zip_url: https://github.com/farz-hkh/Exercise/zipball/master
-#  tar_url: https://github.com/farz-hkh/Exercise/tarball/master
-#  repository: https://github.com/farz-hkh/Exercise
+#CAUTION IF YOU'RE USING LOCALHOST, THEN YOU NEED TO IMPLEMENT THE LINE BELOW (github: [metadata])
+#IF YOU WANT TO LOOK AT YOUR GITHUB.IO, THEN YOU NEED TO UNCOMMENT (ZIP, TAR, AND REPOSITORY, AND ADD github: )
+github: [metadata]
+ # zip_url: https://github.com/farz-hkh/Exercise/zipball/master
+ # tar_url: https://github.com/farz-hkh/Exercise/tarball/master
+ # repository: farz-hkh/Exercise
 #  repository_nwo: github/Exercise
 #  repository_name: Exercise
 
