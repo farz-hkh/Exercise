@@ -18,5 +18,11 @@ layout: default
 
 [Seventh Log](2019/01/02/log-ketujuh.html)
 
+[Eighth Log](2019/01/03/log-kedelapan.html)
+
+[Ninth Log](2019/01/04/log-kesembilan.html)
+
+[Tenth Log](2019/01/05/log-kesepuluh.html)
+
 
 [Home](./)

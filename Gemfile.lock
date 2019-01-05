@@ -256,6 +256,8 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-theme-hacker
+  minima (~> 2.0)
   tzinfo-data
   wdm (~> 0.1.0)
 
