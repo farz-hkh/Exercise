@@ -24,5 +24,7 @@ layout: default
 
 [Tenth Log](2019/01/05/log-kesepuluh.html)
 
+[Eleventh Log](2019/01/06/log-kesebelas.html)
+
 
 [Home](./)
