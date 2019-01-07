@@ -5,3 +5,7 @@ Kita hari ini baru saja mengimplementasikan percobaan kepada tampilan seperti co
 Kita mencoba membuat navigation bar untuk memperindah tampilan kita
 
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/nav.png)
+
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
+
+[Home](https://farz-hkh.github.io/Exercise/)

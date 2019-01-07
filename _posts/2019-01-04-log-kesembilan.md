@@ -17,3 +17,7 @@ Kemudian Install bundler dan jekyll dengan command
 ```PS
  "gem install bundler jekyll"
 ```
+
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
+
+[Home](https://farz-hkh.github.io/Exercise/)

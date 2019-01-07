@@ -15,3 +15,7 @@
 ```PS
   "bundle exec jekyll serve"
 ```
+
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
+
+[Home](https://farz-hkh.github.io/Exercise/)

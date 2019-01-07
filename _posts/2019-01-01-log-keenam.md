@@ -11,3 +11,7 @@ git clone https://github.com/UI-FASILKOM-OS/extra182/
 ```
 
 Kemudian kita akan membuat Sandbox folder pada git tersebut, karena ada tiga orang yang berkontribusi maka kita membuat satu file saja yang sudah mengcover semua.
+
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
+
+[Home](https://farz-hkh.github.io/Exercise/)

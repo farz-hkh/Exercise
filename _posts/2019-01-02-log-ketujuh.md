@@ -17,3 +17,7 @@ Kita sudah dapat membuat github pages dengan cara setting github pagesnya
   ```PS
   "gem install jekyll bundler"
   ```
+
+  [Back](https://farz-hkh.github.io/Exercise/Logs.html)
+
+  [Home](https://farz-hkh.github.io/Exercise/)

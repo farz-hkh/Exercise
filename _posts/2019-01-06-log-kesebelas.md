@@ -7,3 +7,7 @@ Seperti about
 Jika kita memilih about, maka akan ada tampilan seperti di bawah
 
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/about.png)
+
+[Back](https://farz-hkh.github.io/Exercise/Logs.html)
+
+[Home](https://farz-hkh.github.io/Exercise/)
